@@ -1,4 +1,4 @@
-module github.com/awskii/gosseract
+module github.com/endpass/gosseract
 
 go 1.12
 
